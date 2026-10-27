@@ -1,0 +1,3 @@
+ID,orderNumber,customer,totalAmount,currency
+c7b8d9a0-1234-5678-90ab-cdef12345678,ORD-1001,John Doe,150.00,USD
+a1b2c3d4-5678-90ab-cdef-1234567890ab,ORD-1002,Jane Smith,45.50,EUR
